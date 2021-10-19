@@ -2,7 +2,7 @@
 Converting csv to json
 After download the zip file extarct the files in a particular folder 
 After that open any editor (pycharm/vscode) into that folder.
-Run the main.py file to execute the code.
+Run the main2.py file to execute the code.
 A window will pop up.
 Click on Uplaod button to upload the Csv file.
 After selecting the CSV file click on OK.
